@@ -185,7 +185,7 @@ This project demonstrates:
 
 ## 👩‍💻 Author
 
-**Shehnaz Rangrez**
+**Sara Shaikh**
 📊 Data Analyst | Excel | SQL | Data Visualization
 
 ---
