@@ -46,7 +46,7 @@ The dashboards follow a **business intelligence approach**, combining KPI monito
 
 ### 📈 Power BI Dashboard
 
-<img src="Power_BI_Intro_Page" width="95%" alt="Explore Bharat Power BI Dashboard"/>
+<img src="Power_BI_Intro_Page.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
 <img src="Power_BI_Overview_Page.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
 <img src="Power_BI_Experience_&_Popularity_Page.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
 <img src="Power_BI_Accessibilty_Insights_Page.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
@@ -196,18 +196,18 @@ All visuals and KPIs are **fully interconnected**, ensuring real-time updates ba
 
 ## 🧱 Project Structure
 
-```bash
+```text
 📦 Explore-Bharat-Tourist-Destination-Analytics
- ┣ 📊 Excel Dashboard
- ┃ ┗ 📄 Explore_Bharat_Dashboard.xlsx
- ┣ 📈 Power BI Dashboard
- ┃ ┗ 📄 Explore_Bharat_Dashboard.pbix
- ┣ 📁 Dataset
- ┃ ┗ 📄 Tourist_Destination_Data.xlsx
- ┣ 📁 Assets
- ┃ ┣ 📷 excel_dashboard.png
- ┃ ┗ 📷 powerbi_dashboard.png
- ┗ 📄 README.md
+┣ 📄 README.md
+┣ 📄 Cleaned_Dataset_Explore_Bharat_Tourist_Destination.xlsx
+┣ 📄 Raw_Dataset_Top_Indian_Places_to_Visit.csv
+┣ 📄 Explore_Bharat_Travel_Analysis.pbix
+┣ 📄 Explore_Bharat_Tourist_Destination_Analytics_Dashboard.xlsx
+┣ 📄 Explore_Bharat_Tourist_Destination_Analytics_Summary.pdf
+┣ 📷 Power_BI_Intro_Page.png
+┣ 📷 Power_BI_Overview_Page.png
+┣ 📷 Power_BI_Experience_&_Popularity_Page.png
+┗ 📷 Power_BI_Accessibility_Insights_Page.png
 ```
 
 ---
